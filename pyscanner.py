@@ -33,7 +33,7 @@ import itertools
 import errno
 import progressbar
 
-version = "0.1.2"
+version = "1.0.0"
 
 parser = argparse.ArgumentParser(prog='pyScanner', description='Scan ports on from a given address.', 
                                  epilog='''This application should be used for personal security analysis only.
